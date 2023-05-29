@@ -1,5 +1,15 @@
 # Getting-and-Cleaning-Data-Course-Project
 
+In this project, you find:
+
+run_analysis.R : the R-code run on the data set
+
+tidyData.txt : the clean data extracted from the original data using run_analysis.R
+
+CodeBook.md : the CodeBook reference to the variables in Tidy.txt
+
+README.md : the analysis of the code in run_analysis.R
+
 The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set.
 
 Review criteria
@@ -19,3 +29,5 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 Here are the data for the project:
 
  https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip  
+ 
+ 
